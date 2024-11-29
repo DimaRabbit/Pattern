@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\\Downloads\\HW2\\Task3\\",
+  "WorkspaceRootPath": "C:\\HW2\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3AFF524-5FB2-4841-BCE9-10057C4E4AF4}|Task3\\Task3.vcxproj|C:\\Users\\\u0414\u0438\\Downloads\\HW2\\Task3\\Task3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E3AFF524-5FB2-4841-BCE9-10057C4E4AF4}|Task3\\Task3.vcxproj|C:\\HW2\\Task3\\Task3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E3AFF524-5FB2-4841-BCE9-10057C4E4AF4}|Task3\\Task3.vcxproj|solutionrelative:Task3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\\Downloads\\HW2\\Task3\\Task3\\main.cpp",
+              "DocumentMoniker": "C:\\HW2\\Task3\\Task3\\main.cpp",
               "RelativeDocumentMoniker": "Task3\\main.cpp",
-              "ToolTip": "C:\\Users\\\u0414\u0438\\Downloads\\HW2\\Task3\\Task3\\main.cpp",
+              "ToolTip": "C:\\HW2\\Task3\\Task3\\main.cpp",
               "RelativeToolTip": "Task3\\main.cpp",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAAADsAAAAkAAAA",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-27T15:32:18.451Z",
               "EditorCaption": ""
